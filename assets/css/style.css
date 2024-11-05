@@ -817,7 +817,7 @@ button{
 }
 .Container2{
     background-color: rgba(24, 24, 35, 1);
-    width: 70rem;
+    width: 65rem;
     height: 100vh;
     position: absolute;
     right: 0;
@@ -841,7 +841,6 @@ button{
     color: #ffffff;
     font: bold;
     font-size: 40px;
-    padding-left: 10rem;
 }
 .Container_aux{
     color: aqua;

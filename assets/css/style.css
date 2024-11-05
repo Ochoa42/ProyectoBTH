@@ -821,7 +821,6 @@ button{
     height: 100vh;
     position: absolute;
     right: 0;
-    
 }
 .Img_Background {
     
@@ -864,7 +863,7 @@ button{
         animation: typing 2s steps(12), blink .5s infinite step-end  alternate;
         border-radius: 5px;
         overflow: hidden;
-        width: 25.2ch;
+        width: 27.2ch;
 }
 @keyframes typing{
     from {width: 0}

@@ -841,6 +841,7 @@ button{
     color: #ffffff;
     font: bold;
     font-size: 40px;
+    padding-left: 5rem;
 }
 .Container_aux{
     color: aqua;
